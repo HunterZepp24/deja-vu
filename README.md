@@ -1,6 +1,7 @@
-# Text Based Adventure
+# DEJA VU
+## The Text Based Adventure Game
 
 ![Screenshot](screenshot.png)
 
-## Citations
+### Citations
 * [Matrix Digital Rain Background](https://virtualbackgrounds.site/background/the-matrix-digital-rain/)
